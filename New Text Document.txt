@@ -1,0 +1,53 @@
+unsplash website for trade mark free photos
+
+background image code in css
+   background-image: url("lion.jpg");
+    background-size:cover;
+}
+
+practice set number 5
+
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADNAN ABBAS GEO</title>
+    <link rel="stylesheet" href="style.css">   
+</head>
+<body>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore in hic officia voluptatem nemo rem labore sequi deserunt aliquam illo teptatibus. Possimus illum voluptas atque sit saepe minima libero accusantium provident culpa, maiores eos, maxime fuga suscipit corrupti esse reiciendis. Ducimus assumenda commodi fugit.
+Voluptates quos corporis commodi exercitationem, vero pariatur mollitia libero, autem aut similique assumenda velit, consequuntur recusandae quia hic optio qui repellendus nesciunt tempora! Sint obcaecati debitis, odit a nesciunt expedita?
+Porro esse labore impedit enim harum quas quam eligendi fugit placeat laborum. Nemo minus deleniti at provident, repellat libero quos quo fugit! Sit facere quo dolor recusandae neque dolorum quisquam.
+Distinctio quidem doloribus iusto et ipsum sequi praesentium esse, minima magnam dolorem. Itaque tempora totam soluta corporis ipsum reiciendis molestias iure quis delectus illum. Rerum aspernatur quidem laudantium vel magnam.
+Nostrum, itaque harum ipsa debitis natus fuga illum sequi? Sapiente laboriosam ullam doloremque obcaecati maxime nesciunt, dolorem veniam. Quisquam praesentium maxime consectetur nihil enim quae porro error sint nesciunt adipisci.
+Veniam omnis consequuntur eum a neque maiores necessitatibus, assumenda accusantium eligendi nemo et debitis veritatis ex unde exercitationem quia recusandae? Excepturi enim placeat suscipit quod odio voluptate voluptates amet voluptatem!
+Laudantium vel saepe provident delectus, eaque ipsam labore velit non laboriosam reiciendis. Deserunt aspernatur veritatis quos, tempora laborum, voluptas libero vel necessitatibus ipsa dolores reiciendis corporis quaerat! Suscipit, porro aspernatur.
+Ex, animi. Quae accusantium ad sit molestias fugit error fugiat doloremque corporis corrupti incidunt, deleniti nemo itaque aut dolores qui excepturi consectetur praesentium! Vitae reprehenderit consectetur molestias doloremque, dolores fuga.
+Laborum dolore unde dolores modi beatae ratione voluptatibus accusamus fugiat quas consequatur explicabo reiciendis ea iure id totam error rem nihil debitis tempore aliquid, assumenda cupiditate. A rerum debitis ullam.cem, dolores iusto ea delectus incidunt nulla minus atque! Beatae itaque consectetur voluptate, aliquid placeat impedit sapiente eum suscipit maiores officiis molestiae, amet libero quaerat?epturi accusamus rerum inventore id provident sit numquam perferendis! Repudiandae, qui odit esse, suscipit fuga dolores exercitationem reiciendis, ipsum eius veniam soluta quae? Ipsa, animi. Inventore, distinctio!
+Voluptate iure corruplorem*10ti rerum vitae repellat, doloribus cumque consectetur eos veniam! Magni sit dolorum nobis laborum nisi suscipit omnis. Nulla numquam necessitatibus, mollitia minima maiores nesciunt eum facilis aperiam odio!
+Mollitia vitae, dolorum officia similique officiis deserunt doloremque quasi aliquam, deleniti placeat itaque fugit tempore nemo commodi quibusdam fuga exercitationem pariatur consectetur! Nesciunt libero odit quas esse, voluptatibus dolorem ad.</p>
+
+</body>
+</html>
+
+csss
+div {
+    height: 100px;
+    width: 100px;
+    background-image: url("lion.jpg");
+    background-size: cover;
+    color: white;
+    position: fixed;
+    right:0px;
+    top: 50px;
+
+}
+
+
+
+level 4 css flex box
+
+flex box layout 
+
